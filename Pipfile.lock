@@ -6,7 +6,6 @@
         "pipfile-spec": 6,
         "requires": {
             "python_full_version": "3.10.2",
-            "python_version": "3.10"
         },
         "sources": [
             {
